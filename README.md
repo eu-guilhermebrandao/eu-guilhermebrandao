@@ -49,7 +49,7 @@
 
 ## 🧠 Sobre mim
 
-Sou o **Guilherme Brandão**, fundador da **[GB IA Solutions](https://SEUSITE.com.br)** — uma agência digital em Londrina/PR especializada em transformar negócios através da tecnologia.
+Sou o **Guilherme Brandão**, fundador da **[GB IA Solutions](https://SEUSITE.com.br)** — uma agência digital especializada em transformar negócios através da tecnologia.
 
 - 🤖 Crio **soluções de IA e automações** que economizam tempo e escalam resultados
 - 🌐 Desenvolvo **sites e aplicações web** focados em conversão
