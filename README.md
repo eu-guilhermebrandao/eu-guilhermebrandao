@@ -1,131 +1,77 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Guilherme Brandão · IA Solutions — Automação inteligente. Resultados reais. Do anúncio à venda: site, lead, CRM, automação e agente de IA.">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,55:0D1526,100:00779E&height=230&section=header&text=Guilherme%20Brand%C3%A3o&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=IA%20SOLUTIONS&descSize=20&descAlignY=64&animation=fadeIn" width="100%" alt="Guilherme Brandão · IA Solutions">
 </p>
 
 <p align="center">
-  <a href="https://guilhermebrandao.com.br"><img src="https://img.shields.io/badge/guilhermebrandao.com.br-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D" alt="Site"></a>&nbsp;
-  <a href="mailto:contato@guilhermebrandao.com.br"><img src="https://img.shields.io/badge/E--mail-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iNCIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3Ii8%2BPC9zdmc%2B" alt="E-mail"></a>&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=00C2FF&center=true&vCenter=true&width=720&height=46&lines=Automa%C3%A7%C3%A3o+inteligente.+Resultados+reais.;Marketing+%C2%B7+Software+%C2%B7+Automa%C3%A7%C3%A3o+%C2%B7+IA;Do+an%C3%BAncio+%C3%A0+venda%2C+tudo+conectado." alt="Automação inteligente. Resultados reais.">
+</p>
+
+<p align="center">
+  <a href="https://guilhermebrandao.com.br"><img src="https://img.shields.io/badge/guilhermebrandao.com.br-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8%2BPHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8%2BPC9zdmc%2B" alt="Site"></a>
   <a href="https://wa.me/5543984481547?text=Ol%C3%A1%2C%20Guilherme%21%20Vim%20pelo%20seu%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-0D1526?style=for-the-badge&logo=whatsapp&logoColor=00C2FF" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/euguilhermebrandao"><img src="https://img.shields.io/badge/LinkedIn-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTYgOGE2IDYgMCAwIDEgNiA2djdoLTR2LTdhMiAyIDAgMCAwLTItMiAyIDIgMCAwIDAtMiAydjdoLTR2LTdhNiA2IDAgMCAxIDYtNnoiLz48cmVjdCB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIgeD0iMiIgeT0iOSIvPjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIi8%2BPC9zdmc%2B" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/eu.guilhermebrandao"><img src="https://img.shields.io/badge/Instagram-0D1526?style=for-the-badge&logo=instagram&logoColor=00C2FF" alt="Instagram"></a>
+  <a href="mailto:contato@guilhermebrandao.com.br"><img src="https://img.shields.io/badge/E--mail-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIyIiB5PSI0IiB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHJ4PSIyIi8%2BPHBhdGggZD0ibTIyIDctOC45NyA1LjdhMS45NCAxLjk0IDAgMCAxLTIuMDYgMEwyIDciLz48L3N2Zz4%3D" alt="E-mail"></a>
+</p>
+
+<p align="center">
+  Fundador da <b>Guilherme Brandão IA Solutions</b>.<br>
+  Marketing, software, automação e IA trabalhando juntos para empresas venderem mais e operarem melhor.
 </p>
 
 <br>
 
-## Olá, eu sou o Guilherme.
+<h3 align="center">Do anúncio à venda</h3>
 
-Fundador da **Guilherme Brandão IA Solutions**. Uno marketing, software, automação e Inteligência Artificial para ajudar empresas a **conquistar mais clientes, vender mais e operar melhor**.
+<p align="center">
+  <img src="https://img.shields.io/badge/An%C3%BAncio-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJtMyAxMSAxOC01djEyTDMgMTR2LTN6Ii8%2BPHBhdGggZD0iTTExLjYgMTYuOGEzIDMgMCAxIDEtNS44LTEuNiIvPjwvc3ZnPg%3D%3D" alt="Anúncio">
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/Site-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8%2BPHBhdGggZD0iTTEyIDJhMTUuMyAxNS4zIDAgMCAxIDQgMTAgMTUuMyAxNS4zIDAgMCAxLTQgMTAgMTUuMyAxNS4zIDAgMCAxLTQtMTAgMTUuMyAxNS4zIDAgMCAxIDQtMTB6Ii8%2BPC9zdmc%2B" alt="Site">
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/Lead-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTYgMjF2LTJhNCA0IDAgMCAwLTQtNEg2YTQgNCAwIDAgMC00IDR2MiIvPjxjaXJjbGUgY3g9IjkiIGN5PSI3IiByPSI0Ii8%2BPGxpbmUgeDE9IjE5IiB4Mj0iMTkiIHkxPSI4IiB5Mj0iMTQiLz48bGluZSB4MT0iMjIiIHgyPSIxNiIgeTE9IjExIiB5Mj0iMTEiLz48L3N2Zz4%3D" alt="Lead">
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/CRM-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIi8%2BPHBhdGggZD0iTTggN3Y3Ii8%2BPHBhdGggZD0iTTEyIDd2NCIvPjxwYXRoIGQ9Ik0xNiA3djkiLz48L3N2Zz4%3D" alt="CRM">
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB3aWR0aD0iOCIgaGVpZ2h0PSI4IiB4PSIzIiB5PSIzIiByeD0iMiIvPjxwYXRoIGQ9Ik03IDExdjRhMiAyIDAgMCAwIDIgMmg0Ii8%2BPHJlY3Qgd2lkdGg9IjgiIGhlaWdodD0iOCIgeD0iMTMiIHk9IjEzIiByeD0iMiIvPjwvc3ZnPg%3D%3D" alt="Automação">
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/Agente_IA-0D1526?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBDMkZGIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgOFY0SDgiLz48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTIiIHg9IjQiIHk9IjgiIHJ4PSIyIi8%2BPHBhdGggZD0iTTIgMTRoMiIvPjxwYXRoIGQ9Ik0yMCAxNGgyIi8%2BPHBhdGggZD0iTTE1IDEzdjIiLz48cGF0aCBkPSJNOSAxM3YyIi8%2BPC9zdmc%2B" alt="Agente IA">
+  &nbsp;→&nbsp;
+  <img src="https://img.shields.io/badge/Venda-00C2FF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMEEwRjFFIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSIyMiA3IDEzLjUgMTUuNSA4LjUgMTAuNSAyIDE3Ii8%2BPHBvbHlsaW5lIHBvaW50cz0iMTYgNyAyMiA3IDIyIDEzIi8%2BPC9zdmc%2B" alt="Venda">
+</p>
 
-Em vez de contratar separadamente uma agência de tráfego, um desenvolvedor, uma software house e um especialista em IA, a empresa passa a ter uma única estratégia conectando tudo — do anúncio à venda. Posso atuar em uma etapa dessa cadeia ou em todas elas.
-
-> Uso Inteligência Artificial como multiplicador de capacidade: ela me permite entregar, com velocidade, soluções que antes exigiriam equipes e estruturas muito maiores. A estratégia e o conhecimento continuam vindo antes da ferramenta.
-
-<br>
-
-### `01` O que eu construo
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Aquisição de clientes</h4>
-      Coloco a empresa na frente das pessoas certas. Campanhas medidas em leads, contatos e vendas — não em cliques.
-      <br><br>
-      <code>Google Ads</code> <code>tráfego pago</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Sites e presença digital</h4>
-      Sites institucionais, landing pages e e-commerce feitos para transformar visita em contato.
-      <br><br>
-      <code>sites</code> <code>landing pages</code> <code>e-commerce</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Software e SaaS</h4>
-      Se o software que a sua empresa precisa não existe, eu desenvolvo: CRMs, sistemas internos, portais, dashboards e plataformas SaaS.
-      <br><br>
-      <code>CRM</code> <code>sistemas sob medida</code> <code>SaaS</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Automação e agentes de IA</h4>
-      Tarefas repetitivas rodando sozinhas e agentes que atendem, qualificam, prospectam e fazem follow-up — inclusive por voz.
-      <br><br>
-      <code>automações</code> <code>WhatsApp</code> <code>agentes de IA</code>
-    </td>
-  </tr>
-</table>
+<p align="center"><sub>Atuo em uma etapa ou na cadeia inteira.</sub></p>
 
 <br>
 
-### `02` Como eu trabalho
+<h3 align="center">Em construção</h3>
 
-A primeira pergunta nunca é *"qual tecnologia vamos usar?"*. É *"qual problema precisamos resolver?"*.
-
-```text
-PROBLEMA → OBJETIVO → ESTRATÉGIA → TECNOLOGIA → IMPLEMENTAÇÃO → RESULTADO
-```
-
-Toda solução precisa responder a pelo menos uma destas perguntas: isso gera mais clientes? Aumenta as vendas? Economiza tempo? Reduz trabalho manual? Se a resposta for sim, existe algo a construir.
-
-<br>
-
-### `03` Em construção
-
-| Produto | O que resolve | Status |
-|:--|:--|:--|
-| **Atendia** | Agente de IA que atende e qualifica clientes no WhatsApp e no Instagram | <code>em&nbsp;desenvolvimento</code> |
-| **GB CRM** | CRM com funil, tarefas, contatos e a conversa do WhatsApp dentro da ficha do cliente, pela API oficial da Meta | <code>em&nbsp;produção</code> |
-| **Fólio** | Assistente para advogados em que toda resposta aponta a página exata do documento | <code>em&nbsp;desenvolvimento</code> |
-| **Licitri** | Análise de licitações públicas | <code>em&nbsp;desenvolvimento</code> |
-| **Radar de Voto** | Inteligência eleitoral | <code>em&nbsp;desenvolvimento</code> |
-| **RouteMind** | GPS estratégico para prioridades e tarefas | <code>em&nbsp;uso</code> |
+<p align="center">
+  <img src="https://img.shields.io/badge/Atendia-atendimento_com_IA-00779E?style=for-the-badge&labelColor=0D1526" alt="Atendia">
+  <img src="https://img.shields.io/badge/GB_CRM-CRM_%2B_WhatsApp-00779E?style=for-the-badge&labelColor=0D1526" alt="GB CRM">
+  <img src="https://img.shields.io/badge/F%C3%B3lio-SaaS_jur%C3%ADdico-00779E?style=for-the-badge&labelColor=0D1526" alt="Fólio">
+  <img src="https://img.shields.io/badge/Radar_de_Voto-intelig%C3%AAncia_eleitoral-00779E?style=for-the-badge&labelColor=0D1526" alt="Radar de Voto">
+  <img src="https://img.shields.io/badge/RouteMind-gest%C3%A3o_estrat%C3%A9gica-00779E?style=for-the-badge&labelColor=0D1526" alt="RouteMind">
+</p>
 
 <br>
 
-### `04` Stack
+<h3 align="center">Stack</h3>
 
-**Desenvolvimento**<br>
-<img src="https://img.shields.io/badge/Next.js-0D1526?style=for-the-badge&logo=nextdotjs&logoColor=00C2FF" alt="Next.js">
-<img src="https://img.shields.io/badge/React-0D1526?style=for-the-badge&logo=react&logoColor=00C2FF" alt="React">
-<img src="https://img.shields.io/badge/TypeScript-0D1526?style=for-the-badge&logo=typescript&logoColor=00C2FF" alt="TypeScript">
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D1526?style=for-the-badge&logo=tailwindcss&logoColor=00C2FF" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Node.js-0D1526?style=for-the-badge&logo=nodedotjs&logoColor=00C2FF" alt="Node.js">
-<img src="https://img.shields.io/badge/Python-0D1526?style=for-the-badge&logo=python&logoColor=00C2FF" alt="Python">
-<img src="https://img.shields.io/badge/Electron-0D1526?style=for-the-badge&logo=electron&logoColor=00C2FF" alt="Electron">
-<img src="https://img.shields.io/badge/HTML5-0D1526?style=for-the-badge&logo=html5&logoColor=00C2FF" alt="HTML5">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,py,electron,html,css,firebase,postgres,supabase,vercel,git,github&perline=15" alt="Next.js, React, TypeScript, Tailwind, Node.js, Python, Electron, HTML, CSS, Firebase, PostgreSQL, Supabase, Vercel, Git, GitHub">
+</p>
 
-**Dados e infraestrutura**<br>
-<img src="https://img.shields.io/badge/Firebase-0D1526?style=for-the-badge&logo=firebase&logoColor=00C2FF" alt="Firebase">
-<img src="https://img.shields.io/badge/PostgreSQL-0D1526?style=for-the-badge&logo=postgresql&logoColor=00C2FF" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Supabase-0D1526?style=for-the-badge&logo=supabase&logoColor=00C2FF" alt="Supabase">
-<img src="https://img.shields.io/badge/Vercel-0D1526?style=for-the-badge&logo=vercel&logoColor=00C2FF" alt="Vercel">
-<img src="https://img.shields.io/badge/Hostinger-0D1526?style=for-the-badge&logo=hostinger&logoColor=00C2FF" alt="Hostinger">
-
-**Automação e IA**<br>
-<img src="https://img.shields.io/badge/n8n-0D1526?style=for-the-badge&logo=n8n&logoColor=00C2FF" alt="n8n">
-<img src="https://img.shields.io/badge/WhatsApp_Cloud_API-0D1526?style=for-the-badge&logo=whatsapp&logoColor=00C2FF" alt="WhatsApp Cloud API">
-<img src="https://img.shields.io/badge/Claude-0D1526?style=for-the-badge&logo=claude&logoColor=00C2FF" alt="Claude">
-<img src="https://img.shields.io/badge/Gemini-0D1526?style=for-the-badge&logo=googlegemini&logoColor=00C2FF" alt="Gemini">
-<img src="https://img.shields.io/badge/Cursor-0D1526?style=for-the-badge&logo=cursor&logoColor=00C2FF" alt="Cursor">
-
-**Aquisição**<br>
-<img src="https://img.shields.io/badge/Google_Ads-0D1526?style=for-the-badge&logo=googleads&logoColor=00C2FF" alt="Google Ads">
-<img src="https://img.shields.io/badge/Meta_Ads-0D1526?style=for-the-badge&logo=meta&logoColor=00C2FF" alt="Meta Ads">
-
-<br>
-
-<details>
-<summary><b>English</b></summary>
-<br>
-
-I'm the founder of **Guilherme Brandão IA Solutions**, a Brazil-based company that combines marketing, software, automation and AI to help businesses win more customers, sell more and run more efficiently.
-
-From paid ads and conversion-focused websites to custom CRMs, SaaS platforms, automations and AI agents for support, sales and prospecting — one integrated strategy, from the first ad to the closed deal. I use AI as a capacity multiplier, not as a replacement for strategy.
-
-Get in touch: [contato@guilhermebrandao.com.br](mailto:contato@guilhermebrandao.com.br)
-
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-0D1526?style=for-the-badge&logo=n8n&logoColor=00C2FF" alt="n8n">
+  <img src="https://img.shields.io/badge/WhatsApp_Cloud_API-0D1526?style=for-the-badge&logo=whatsapp&logoColor=00C2FF" alt="WhatsApp Cloud API">
+  <img src="https://img.shields.io/badge/Claude-0D1526?style=for-the-badge&logo=claude&logoColor=00C2FF" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-0D1526?style=for-the-badge&logo=googlegemini&logoColor=00C2FF" alt="Gemini">
+  <img src="https://img.shields.io/badge/Google_Ads-0D1526?style=for-the-badge&logo=googleads&logoColor=00C2FF" alt="Google Ads">
+  <img src="https://img.shields.io/badge/Meta_Ads-0D1526?style=for-the-badge&logo=meta&logoColor=00C2FF" alt="Meta Ads">
+</p>
 
 <br>
 
 <p align="center">
-  <sub>Tecnologia precisa gerar resultado. Caso contrário, é apenas custo.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,55:0D1526,100:00779E&height=70&section=footer" width="100%" alt="">
 </p>
